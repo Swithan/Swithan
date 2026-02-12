@@ -1,8 +1,4 @@
-# 👋 Hi, I'm Swithan (Nathan Debongnie)!
-
-**Junior Data Engineer | Python & SQL Enthusiast | Sports Lover**
-
----
+# **Junior Data Engineer/Analyst | Python & SQL Enthusiast | Sports Lover**
 
 ## 🚀 About Me
 
@@ -11,8 +7,6 @@ I'm a passionate **Junior Data Engineer** based in Brussels, Belgium. Driven by 
 - 🔍 Strong focus on **data integrity, consistency, and business workflows**
 - 🛠️ Fullstack experience with REST APIs and PostgreSQL
 - 🧠 Quick learner, adaptable, and eager for continuous improvement
-
----
 
 ## 🛠️ Core Skills
 
@@ -36,14 +30,11 @@ I'm a passionate **Junior Data Engineer** based in Brussels, Belgium. Driven by 
 **Tools:**  
 &nbsp;&nbsp;• Git
 
----
 
 ## 🌟 Featured Project
 
 ### [swimstats](#) <!-- You can update this with a real repo link later! -->
 _A personal highlight, “swimstats” is all about leveraging data and analytics to uncover new insights in swimming — combining my love for tech and sports._
-
----
 
 ## 📚 Education
 
@@ -52,8 +43,6 @@ _A personal highlight, “swimstats” is all about leveraging data and analytic
 - **Bachelor in Information Technology**  
   EPHEC, Louvain-La-Neuve (2018 - 2022)
 
----
-
 ## 🤝 Connect with Me
 
 - **Email:** nathandebongnie@gmail.com  
@@ -61,12 +50,9 @@ _A personal highlight, “swimstats” is all about leveraging data and analytic
 - **Location:** Brussels, Belgium  
 - **LinkedIn:** [Nathan Debongnie](https://www.linkedin.com/in/nathan-debongnie-b2b3331b9)
 
----
 
 ## 🏊 Fun Fact
 
 Outside of tech, I’m a huge sports fan — with a special passion for swimming. Ask me about the latest stats or my favorite pools!
-
----
 
 _Thanks for visiting my profile! Let’s connect and build something great together._
